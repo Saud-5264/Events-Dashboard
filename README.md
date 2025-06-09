@@ -3,18 +3,18 @@ Prestige Gala Expense Summary
 This repository contains a Power BI dashboard and supporting Excel data to track estimated vs. actual expenses for Prestige Gala events.
 
 📁 Files
-Prestige Gala Expense Summary.pbix – Power BI dashboard file
+Events File.pbix – Power BI dashboard file
 
-Prestige Gala Data.xlsx – Excel file containing the data source
+Events Data.xlsx – Excel file containing the data source
 
-image_604aaf.png – Screenshot of the Power BI dashboard
+Dashboard.png – Screenshot of the Power BI dashboard
 
 🚀 Usage
 To explore the event expense summaries:
 
 Download or clone this repository.
 
-Open the Prestige Gala Expense Summary.pbix file using Power BI Desktop.
+Open the Events File.pbix file using Power BI Desktop.
 
 Review visualizations comparing estimated and actual expenses for each event.
 
